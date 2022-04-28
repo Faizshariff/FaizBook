@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FaizBook/static/css/main.e965ec8b.css",
+    "main.js": "/FaizBook/static/js/main.71f8a95f.js",
+    "index.html": "/FaizBook/index.html",
+    "main.e965ec8b.css.map": "/FaizBook/static/css/main.e965ec8b.css.map",
+    "main.71f8a95f.js.map": "/FaizBook/static/js/main.71f8a95f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e965ec8b.css",
+    "static/js/main.71f8a95f.js"
+  ]
+}
